@@ -15,16 +15,8 @@ No Framework was used
 # Technologies used
 VScode, Linters, Github
 
-# Prerequisites
-• Setup
-
-• Install
-
-• Usage
-
-
 # Author
-👤 Author1
+👤 Author
 
 • GitHub: [@Lizdev-05](https://github.com/Lizdev-05)
 
@@ -46,7 +38,7 @@ Give a ⭐️ if you like this project!
 
 📝 License
 
-This project is Microverse licensed.
+This project is MIT licensed.
 
 
 # Acknowledgments
