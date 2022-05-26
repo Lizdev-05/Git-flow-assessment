@@ -16,9 +16,11 @@ No Framework was used
 VScode, Linters, Github
 
 # Prerequisites
-Setup
-Install
-Usage
+• Setup
+
+• Install
+
+• Usage
 
 
 # Author
